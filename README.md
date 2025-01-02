@@ -2,8 +2,7 @@
 Deployment a simple machine learning model
 
 
-
-`
+```python
 model_training/
 ├── src/
 │   ├── data/
@@ -20,6 +19,4 @@ model_training/
 ├── models/
 │   ├── trained_model.pkl        # Modelo entrenado (generado tras el entrenamiento)
 ├── requirements.txt             # Dependencias necesarias
-
-`
-
+```
